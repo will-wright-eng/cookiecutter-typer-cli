@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "cookiecutter-typer-cli"
+version = "0.1.0"
+description = "cookiecutter template for typer command line interface"
+authors = ["Your Name <you@example.com>"]
+license = "GNU GPL v3.0"
+readme = "README.md"
+packages = [{include = "cookiecutter_typer_cli"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+typer = "^0.6.1"
+toml = "^0.10.2"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
