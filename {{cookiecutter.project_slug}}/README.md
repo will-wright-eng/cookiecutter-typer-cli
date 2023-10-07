@@ -8,7 +8,7 @@
 
 ## Summary
 
-**{{ cookiecutter.short_description }}**
+**{{ cookiecutter.project_short_description }}**
 
 ## Installing `{{ cookiecutter.package_name }}` & Supported Versions
 
