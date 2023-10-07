@@ -10,6 +10,8 @@
 
 **{{ cookiecutter.project_short_description }}**
 
+- generated using: [will-wright-eng/cookiecutter-typer-cli](https://github.com/will-wright-eng/cookiecutter-typer-cli)
+
 ## Installing `{{ cookiecutter.package_name }}` & Supported Versions
 
 `{{ cookiecutter.package_name }}` is available on PyPI:
