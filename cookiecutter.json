@@ -7,8 +7,6 @@
     "full_name": "John Smith",
     "github_username": "jsmith",
     "email": "john@example.com",
-    "open_source_license": "GNU GPL v3.0",
-    "_copy_without_render": [
-        "Makefile"
-    ]
+    "open_source_license": "GNU GPL v3.0"
 }
+
