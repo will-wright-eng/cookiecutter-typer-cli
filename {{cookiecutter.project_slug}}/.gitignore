@@ -1,8 +1,5 @@
-.vscode
-testing-project
-.mypy_cache
-poetry.lock
-dev-link/
+.DS_Store
+
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
