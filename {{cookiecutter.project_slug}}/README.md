@@ -22,6 +22,28 @@ python -m pip install {{ cookiecutter.package_name }}
 
 {{ cookiecutter.project_name }} Command Line Interface officially supports Python 3.8+.
 
+## Quick Start
+
+- setup global config file `~/.config/{{ cookiecutter.package_name }}/config`
+
+```bash
+{{ cookiecutter.package_name }} config
+```
+
+*fill out prompts*
+
+```bash
+{{ cookiecutter.package_name }} config
+```
+
+*check configs are correct*
+
+```bash
+{{ cookiecutter.package_name }} hello will
+# Hello, Will!
+```
+
+
 ## Supported Features & Usage
 
 For help, run:

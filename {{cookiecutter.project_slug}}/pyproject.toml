@@ -26,3 +26,7 @@ profile = "black"
 [build-system]
 requires = ["poetry-core>=1.1.0a6"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.codespell]
+skip = '.git,venv'
+# ignore-words-list = ''
